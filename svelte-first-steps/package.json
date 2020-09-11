@@ -22,6 +22,9 @@
     "@babel/plugin-transform-runtime": "^7.11.5",
     "@babel/polyfill": "^7.11.5",
     "@babel/preset-env": "^7.11.5",
+    "@webcomponents/shadydom": "^1.7.4",
+    "@webcomponents/webcomponentsjs": "^2.4.4",
+    "core-js": "^3.6.5",
     "sirv-cli": "^0.4.4"
   }
 }
